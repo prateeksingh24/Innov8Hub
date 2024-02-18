@@ -1,6 +1,3 @@
-Absolutely! Writing a clear and concise README file for your Git repository is crucial for helping potential users and contributors understand what your project is about and how they can use it. Below is a template you can use for your Tutio app's README file:
-
----
 
 # Tutio
 
