@@ -35,6 +35,8 @@ Track and follow up on student inquiries efficiently to convert leads into enrol
 <img src="https://github.com/prateeksingh24/Innov8Hub/assets/127473792/272b5785-cc31-4a47-967e-22c6dffc5768" alt="Login Page" width="300" height="600">
 
 
+
+
 ## Getting Started
 To get started with Tutio, follow these steps:
 
@@ -86,14 +88,4 @@ We welcome contributions from the community! If you'd like to contribute to Tuti
 
 4. Open a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-Tutio was made possible thanks to the contributions of many individuals. We'd like to extend our gratitude to all those who have helped make this project a reality.
-
----
-
-Feel free to customize this template further to include any additional information specific to your project or development workflow.
