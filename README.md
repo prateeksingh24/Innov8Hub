@@ -1,27 +1,47 @@
+# Tutio: School Management App
 
-# Tutio
-
-Tutio is a tutoring management application developed using Flutter and powered by RestAPIs. It serves as a comprehensive solution for tutors, enabling efficient management of student data, attendance tracking, batch organization, exam scheduling, and inquiry management.
+Tutio is a comprehensive school management application designed to offer efficient administrative tools to schools at an affordable monthly cost. With Tutio, schools can streamline various tasks including class management, student administration, staff management, and exam assignments. The app facilitates attendance tracking, performance monitoring, and feedback collection, aiming to simplify school administration and improve the overall learning experience.
 
 ## Features
 
-- **Adding Student Details**: Easily input and manage student information including personal details, academic records, and progress tracking.
+### Adding Student Details
+Easily input and manage student information including personal details, academic records, and progress tracking.
 
-- **Attendance Management**: Streamline attendance tracking with intuitive tools for marking attendance and maintaining accurate records.
+### Attendance Management
+Streamline attendance tracking with intuitive tools for marking attendance and maintaining accurate records.
 
-- **Batch Organization**: Efficiently organize students into batches based on subjects, grades, or other custom criteria for seamless scheduling and management.
+### Batch Organization
+Efficiently organize students into batches based on subjects, grades, or other custom criteria for seamless scheduling and management.
 
-- **Exams and Assessments**: Create and manage exams, assign them to specific batches, and track student performance effortlessly.
+### Exams and Assessments
+Create and manage exams, assign them to specific batches, and track student performance effortlessly.
 
-- **Inquiry Management**: Track and follow up on student inquiries efficiently to convert leads into enrolled students.
+### Inquiry Management
+Track and follow up on student inquiries efficiently to convert leads into enrolled students.
 
-## Installation
+## Screenshots
 
-To use Tutio, follow these steps:
+### Login Page!
+
+<img src="https://github.com/prateeksingh24/Innov8Hub/assets/127473792/90378128-b4f8-47c2-9b66-fee04e1471ef" alt="Login Page" width="300" height="600">
+
+### Home Page
+<img src="https://github.com/prateeksingh24/Innov8Hub/assets/127473792/6bb92900-949f-4bc8-9281-ed017729a530" alt="Login Page" width="300" height="600">
+
+### Student Page
+<img src="https://github.com/prateeksingh24/Innov8Hub/assets/127473792/13788816-d853-43cb-b9f0-a2c037cb3840" alt="Login Page" width="300" height="600">
+
+### Subscription Page
+<img src="https://github.com/prateeksingh24/Innov8Hub/assets/127473792/272b5785-cc31-4a47-967e-22c6dffc5768" alt="Login Page" width="300" height="600">
+
+
+## Getting Started
+To get started with Tutio, follow these steps:
+
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/your-username/tutio.git
+   https://github.com/prateeksingh24/Innov8Hub.git
    ```
 
 2. Navigate to the project directory:
